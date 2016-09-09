@@ -1,2 +1,2 @@
 # svm
-svm for R
+SVM example for R using product sales
